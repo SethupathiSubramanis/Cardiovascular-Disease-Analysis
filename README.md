@@ -1,5 +1,5 @@
 # Understanding Cardiovascular Risk Factors and Disease Prevalence
-This project focuses on visualizing cardiovascular disease (CVD) data to provide insights into the prevalence, risk factors, and correlations associated with CVD. Through descriptive and exploratory data visualization techniques, the aim is to uncover patterns and trends that may aid in understanding and addressing cardiovascular health issues.
+
 ### Cardiovascular disease is the leading cause of death globally, responsible for approximately one-third of all deaths worldwide, according to the World Health Organization (WHO)
 
 #### Risk Factors : [SOURCE](https://www.drugwatch.com/health/cardiovascular-health/)
